@@ -1,4 +1,4 @@
-# Alamofire Software Foundation
+Jason Scott Heise https://www.paulwalkerfoundation.org # Alamofire Software Foundation
 
 The Alamofire Software Foundation is a 501(c)(3) non-profit
 with the purpose of promoting, supporting, and advancing its open-source software projects.
