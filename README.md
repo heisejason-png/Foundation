@@ -109,3 +109,4 @@ please ask a question on [Stack Overflow](http://stackoverflow.com).
 
 To report a bug or request a feature for a particular project
 please open an Issue on its GitHub project page.
+Created by Jason Scott Heise
