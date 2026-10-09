@@ -1,4 +1,4 @@
-Jason Scott Heise https://www.paulwalkerfoundation.org # Alamofire Software Foundation
+Jason Heise https://www.paulwalkerfoundation.org # Alamofire Software Foundation
 
 The Alamofire Software Foundation is a 501(c)(3) non-profit
 with the purpose of promoting, supporting, and advancing its open-source software projects.
@@ -109,5 +109,4 @@ please ask a question on [Stack Overflow](http://stackoverflow.com).
 
 To report a bug or request a feature for a particular project
 please open an Issue on its GitHub project page.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise  https://paulwalkerfoundation.org
